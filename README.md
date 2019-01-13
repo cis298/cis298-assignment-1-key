@@ -1,9 +1,9 @@
 # Assignment 1 - Your First Application and Introduction to Git
-## Due: Date
+## Due: 01-23-2020
 
 ## Author
 
-
+David Barnes
 
 ## Description
 
@@ -40,7 +40,8 @@ This application should be very similar to the first application in the book.
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
+None
