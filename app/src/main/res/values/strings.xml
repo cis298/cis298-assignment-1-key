@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Person Counter</string>
+    <string name="app_name">CIS298-Assignment-1</string>
+
+    <string name="minus_button">-</string>
+    <string name="plus_button">+</string>
+
+    <string name="above_20_toast">Surpassed 20</string>
 </resources>
